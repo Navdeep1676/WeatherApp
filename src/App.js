@@ -31,6 +31,7 @@ function App() {
     <div className="container-fluid ">
       <div className="row">
         <div className="col-12">
+          <h2 className='text-center'>Weather App</h2>
           <form className="w-75 mx-auto ">
             <label className="fw-bold mb-1 text-white">City:</label>
             <input
